@@ -16,4 +16,13 @@ This repository contains a Python tkinter-based Scientific Calculator. It offers
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/Om-Shree-0709/tkinter-scientific-calculator.git
+2. Navigate to the repository directory: cd tkinter-scientific-calculator
+3. Run the calculator: python calculator.py
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug fixes, or additional features to propose, feel free to open an issue or submit a pull request.
+
+
+
